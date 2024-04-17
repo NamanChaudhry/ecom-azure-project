@@ -1,0 +1,9 @@
+{
+	"name": "ecomdf-project",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "02ce0be5-43c4-4227-8b63-c1994d494757",
+		"tenantId": "a8eec281-aaa3-4dae-ac9b-9a398b9215e7"
+	}
+}
